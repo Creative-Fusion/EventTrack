@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="screenshots/Logo.jpg" width=120px/>
+    <img src="screenshots/Logo.jpeg" width=120px/>
 </h1>
 <h3 align="center">
     <b>EventTrack - An event management platform</b>
